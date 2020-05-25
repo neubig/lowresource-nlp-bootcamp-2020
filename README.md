@@ -5,7 +5,7 @@ This is a page for a low-resource natural language and speech processing bootcam
 
 ## 1. NLP Tasks
 
-This lecture by [Graham Neubig](http://www.phontron.com) gives a high-level overview of a variety of NLP tasks.
+This lecture by [Graham Neubig](http://www.phontron.com) gives a high-level overview of a variety of NLP tasks ([slides](slides/01-neubig-nlptasks.pdf)).
 
 [![NLP Tasks](https://img.youtube.com/vi/glIbcpay1-I/0.jpg)](https://www.youtube.com/watch?v=glIbcpay1-I)
 
@@ -14,7 +14,7 @@ We also examined the [Universal Dependencies Treebank](https://universaldependen
 
 ## 2. Linguistics - Phonology and Morphology
 
-This lecture by [David Mortensen](http://www.cs.cmu.edu/~dmortens/) gives some linguistic background of phonology and morphology.
+This lecture by [David Mortensen](http://www.cs.cmu.edu/~dmortens/) gives some linguistic background of phonology and morphology ([slides](slides/02-mortensen-ling.pdf)).
 
 [![Linguistics - Phonology and Morphology](https://img.youtube.com/vi/KGOYGONxypA/0.jpg)](https://www.youtube.com/watch?v=KGOYGONxypA)
 
@@ -22,7 +22,7 @@ The exercise has participants use [epitran](https://github.com/dmort27/epitran) 
 
 ## 3. Machine Translation
 
-This lecture by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) explains about machine translation, both phrase-based and neural.
+This lecture by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) explains about machine translation, both phrase-based and neural ([slides](slides/03-anastasopoulos-mt.pdf)).
 
 [![Machine Translation](https://img.youtube.com/vi/SIZfkGzyVRc/0.jpg)](https://www.youtube.com/watch?v=SIZfkGzyVRc)
 
@@ -30,7 +30,7 @@ The exercise tries word alignment with [fast-align](https://github.com/clab/fast
 
 ## 4. Linguistics - Syntax and Morphosyntax
 
-This lecture by [Lori Levin](http://www.cs.cmu.edu/~lsl/) explains about aspects of linguistics related to syntax and morphosyntax.
+This lecture by [Lori Levin](http://www.cs.cmu.edu/~lsl/) explains about aspects of linguistics related to syntax and morphosyntax ([slides](slides/04-levin-syntax.pdf)).
 
 [![Linguistics - Syntax and Morphosyntax](https://img.youtube.com/vi/j2vd3bTfrIA/0.jpg)](https://www.youtube.com/watch?v=j2vd3bTfrIA)
 
@@ -38,7 +38,7 @@ The exercise consists of creating an [interlinear gloss](https://www.eva.mpg.de/
 
 ## 5. Neural Representation Learning
 
-This lecture by [Pengfei Liu](http://pfliu.com/) explains about various methods for learning neural representations of language.
+This lecture by [Pengfei Liu](http://pfliu.com/) explains about various methods for learning neural representations of language ([slides](slides/05-liu-representations.pdf)).
 
 [![Neural Representation Learning](https://img.youtube.com/vi/FgYg1ZH5Io8/0.jpg)](https://www.youtube.com/watch?v=FgYg1ZH5Io8)
 
@@ -46,7 +46,7 @@ The exercise, by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/), int
 
 ## 6. Multilingual NLP
 
-This lecture by [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/) explains about how you can train multilingual NLP systems that work in many different languages.
+This lecture by [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/) explains about how you can train multilingual NLP systems that work in many different languages ([slides](slides/06-tsvetkov-multilingual.pdf)).
 
 [![Multilingual NLP](https://img.youtube.com/vi/wWE4db9XgHA/0.jpg)](https://www.youtube.com/watch?v=wWE4db9XgHA)
 
@@ -54,16 +54,16 @@ The exercise, by [Chan Park](https://chan0park.github.io/), explains how to trai
 
 ## 7. Speech Synthesis
 
-This lecture by [Alan Black](http://www.cs.cmu.edu/~awb/) explains about speech synthesis, generating speech from text.
+This lecture by [Alan Black](http://www.cs.cmu.edu/~awb/) explains about speech synthesis, generating speech from text (slides: [overview](slides/07-black-tts-lowresource.pdf), [building voices](slides/07-black-tts-voicebuild.pdf), [unwritten languages](slides/07-black-tts-unwritten.pdf)).
 
 [![Speech Synthesis](https://img.youtube.com/vi/eDjtEsOvouM/0.jpg)](https://www.youtube.com/watch?v=eDjtEsOvouM)
 
-The exercise demonstrates how you can build your own talking clock using your voice in a language of your choice.
+The exercise demonstrates how you can build your own talking clock using your voice in a language of your choice, and you can get instructions [here](http://tts.speech.cs.cmu.edu/courses/11492/homeworks_2019/tts.html) and [here](http://tts.speech.cs.cmu.edu/11-823/hints/clock.html).
 
 ## 8. Speech Recognition
 
-This lecture by [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) explains about speech recognition, converting speech into textual transcriptions.
+This lecture by [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) explains about speech recognition, converting speech into textual transcriptions ([slides](slides/08-raj-asr.pdf)).
 
 [![Speech Recognition](https://img.youtube.com/vi/XDnUHu6PAqA/0.jpg)](https://www.youtube.com/watch?v=XDnUHu6PAqA)
 
-The exercise, by [Hira Dhamyal](https://web2.qatar.cmu.edu/~hyd/), demonstrates how to build a speech recognition system in Kaldi.
+The exercise, by [Hira Dhamyal](https://web2.qatar.cmu.edu/~hyd/), demonstrates how to build a speech recognition system in [Kaldi](https://github.com/kaldi-asr/kaldi).
