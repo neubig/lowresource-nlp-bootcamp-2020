@@ -66,4 +66,4 @@ This lecture by [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/) explains a
 
 [![Speech Recognition](https://img.youtube.com/vi/XDnUHu6PAqA/0.jpg)](https://www.youtube.com/watch?v=XDnUHu6PAqA)
 
-The exercise, by [Hira Dhamyal](https://web2.qatar.cmu.edu/~hyd/), demonstrates how to build a speech recognition system in [Kaldi](https://github.com/kaldi-asr/kaldi).
+The exercise, by [Hira Dhamyal](https://web2.qatar.cmu.edu/~hyd/), demonstrates how to build a speech recognition system in [Kaldi](https://github.com/kaldi-asr/kaldi), specifically focusing on the [mini-librispeech](https://github.com/kaldi-asr/kaldi/tree/master/egs/mini_librispeech) example.
