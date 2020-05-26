@@ -50,7 +50,7 @@ This lecture by [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/) explains abo
 
 [![Multilingual NLP](https://img.youtube.com/vi/wWE4db9XgHA/0.jpg)](https://www.youtube.com/watch?v=wWE4db9XgHA)
 
-The exercise, by [Chan Park](https://chan0park.github.io/), explains how to train a Naive Bayes Classifier for classification across languages, and introduces how to use [multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md).
+The exercise, by [Chan Park](https://chan0park.github.io/), provides two Jupyter noteboks that explain [how to train a Naive Bayes Classifier for classification across languages](exercises/06-multilingual/naive_bayes.ipynb), and introduces [how to use multilingual BERT for cross-lingual classification](exercises/06-multilingual/mbert.ipynb).
 
 ## 7. Speech Synthesis
 
