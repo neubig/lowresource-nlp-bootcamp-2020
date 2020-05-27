@@ -26,7 +26,7 @@ This lecture by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/) expla
 
 [![Machine Translation](https://img.youtube.com/vi/SIZfkGzyVRc/0.jpg)](https://www.youtube.com/watch?v=SIZfkGzyVRc)
 
-The exercise tries word alignment with [fast-align](https://github.com/clab/fast_align), and neural machine translation with [JoeyNMT](https://github.com/joeynmt/joeynmt).
+The exercise runs through tutorials on word alignment with [fast-align](https://github.com/clab/fast_align), and neural machine translation with [JoeyNMT](https://joeynmt.readthedocs.io/en/latest/tutorial.html) using data from the [Latvian-English translation task at WMT](http://www.statmt.org/wmt17/translation-task.html).
 
 ## 4. Linguistics - Syntax and Morphosyntax
 
@@ -42,7 +42,7 @@ This lecture by [Pengfei Liu](http://pfliu.com/) explains about various methods 
 
 [![Neural Representation Learning](https://img.youtube.com/vi/FgYg1ZH5Io8/0.jpg)](https://www.youtube.com/watch?v=FgYg1ZH5Io8)
 
-The exercise, by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/), introduces learning of word representations using [fastText](https://fasttext.cc/).
+The exercise, by [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/), introduces [learning of word representations using fastText](https://fasttext.cc/docs/en/unsupervised-tutorial.html), using them for [simple text classification](https://fasttext.cc/docs/en/supervised-tutorial.html), and [finding similar words](https://fasttext.cc/docs/en/english-vectors.html).
 
 ## 6. Multilingual NLP
 
